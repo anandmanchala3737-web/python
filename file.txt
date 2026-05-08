@@ -1,0 +1,4 @@
+Hello World
+Python Programming is Fun
+Apple Banana Cherry
+WELCOME to Computer Science

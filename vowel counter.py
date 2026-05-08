@@ -1,0 +1,8 @@
+a = input("Give a word :")
+b = a.upper()
+s = b.count("A")
+s1 = b.count("E")
+s2 = b.count("I")
+s3 = b.count("O")
+s4 = b.count("U")
+print(f"Number of vowels is {s+s1+s2+s3+s4}")
